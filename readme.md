@@ -15,7 +15,7 @@ At the moment of scanning QR code, the software records the check-in time, check
 Thus, the system avoids the public contact and queues at entrance in the public places.
 
 
-"H:\ss\screenshots (1).jpg"
+![](H:\ss\screenshots (1).jpg)
 "H:\ss\screenshots (1).png"
 "H:\ss\screenshots (2).png"
 "H:\ss\screenshots (3).png"
