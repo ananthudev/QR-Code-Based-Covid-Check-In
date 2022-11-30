@@ -15,11 +15,11 @@ At the moment of scanning QR code, the software records the check-in time, check
 Thus, the system avoids the public contact and queues at entrance in the public places.
 
 
-![](H:\ss\screenshots (1).jpg)
-"H:\ss\screenshots (1).png"
-"H:\ss\screenshots (2).png"
-"H:\ss\screenshots (3).png"
-"H:\ss\screenshots (4).png"
-"H:\ss\screenshots (5).png"
-"H:\ss\screenshots (6).png"
-"H:\ss\screenshots (7).png"
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(1).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(2).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/readme.mdC:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(3).pngC:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(4).pngC:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(5).pngC:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(6).pngC:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(7).png)
+
+
