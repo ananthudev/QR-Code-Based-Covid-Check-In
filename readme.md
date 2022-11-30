@@ -16,5 +16,24 @@ Thus, the system avoids the public contact and queues at entrance in the public 
 
 
 
-![image1](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(1).png)
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(0).jpg)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(1).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(2).png)
+
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(3).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(4).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(5).png)
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(6).png)
+
+
+![Alt text](../../../../../../../../../../../C:/Users/anant/OneDrive/Desktop/Dev/BCA/Semester%206/Major%20Project/Major%20Code/qr_code1/screenshots%20(7).png)
+
+
+
 
